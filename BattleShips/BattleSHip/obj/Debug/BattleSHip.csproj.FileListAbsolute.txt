@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BattleSHip\BattleSHip\obj\Debug\BattleSHip.Properties.Resources.resources
+C:\Users\User\source\repos\BattleSHip\BattleSHip\obj\Debug\BattleSHip.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BattleSHip\BattleSHip\obj\Debug\BattleSHip.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BattleSHip\BattleSHip\bin\Debug\BattleSHip.exe.config
+C:\Users\User\source\repos\BattleSHip\BattleSHip\bin\Debug\BattleSHip.exe
+C:\Users\User\source\repos\BattleSHip\BattleSHip\bin\Debug\BattleSHip.pdb
+C:\Users\User\source\repos\BattleSHip\BattleSHip\obj\Debug\BattleSHip.Form1.resources
+C:\Users\User\source\repos\BattleSHip\BattleSHip\obj\Debug\BattleSHip.exe
+C:\Users\User\source\repos\BattleSHip\BattleSHip\obj\Debug\BattleSHip.pdb
+C:\Users\User\source\repos\BattleSHip\BattleSHip\obj\Debug\BattleSHip.csproj.AssemblyReference.cache
